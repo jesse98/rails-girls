@@ -1,0 +1,13 @@
+[user]
+    name = jesse98
+    email = jessemcinnes98@gmail.com
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = simple
